@@ -3,3 +3,13 @@ Traceback (most recent call last):
   File "d:\AgileTribers-Internship\Sprint2\Python_Programming_Task_Practice - 3\logexchand.py", line 9, in main
     strtonum = int(str_val)
 ValueError: invalid literal for int() with base 10: 'gh'
+2025-05-07 21:54:30,416 - ERROR - Converting given string to int is not possible
+Traceback (most recent call last):
+  File "d:\AgileTribers-Internship\Sprint2\Python_Programming_Task_Practice - 3\logexchand.py", line 9, in main
+    strtonum = int(str_val)
+ValueError: invalid literal for int() with base 10: 'sccv'
+2025-05-07 21:54:49,143 - ERROR - Converting given string to int is not possible
+Traceback (most recent call last):
+  File "d:\AgileTribers-Internship\Sprint2\Python_Programming_Task_Practice - 3\logexchand.py", line 9, in main
+    strtonum = int(str_val)
+ValueError: invalid literal for int() with base 10: 'gh'
